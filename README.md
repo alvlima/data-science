@@ -1,9 +1,5 @@
-# data-science
+# Data Science
 
-Este repositório tem como intuito criação de portfólio de data science. Abaixo há um glossário para cada pasta disponivel com os estudos e técnicas aplicadas.
+Este repositório contém estudos e projetos realizados em aulas do MBA, cursos livres e desenvolvimentos de autoria própria.
 
-### challenge_AluraCash ###
-  - Dados: Essa pasta contém os dados de IDs, Empréstimos, Dados mutuários e Históricos de banco.
-    O arquivo base_tratada.sql é o processo de tratamento de dados "null" das bases.
- 
-    
+Qualquer dúvida relacionada aos projetos aqui apresentados você poderá entrar em contato por e-mail: andressa-lima-soares@hotmail.com
