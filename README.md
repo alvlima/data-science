@@ -6,4 +6,4 @@ Qualquer dúvida relacionada aos projetos aqui apresentados você poderá entrar
 
 >E-mail: alvaro.soares01@hotmail.com
 
->LinkedIn: [Álvaro Soares](https://www.linkedin.com/in/alvaro-soares01/)https://www.linkedin.com/in/alvaro-soares01/)
+>LinkedIn: [Álvaro Soares](https://www.linkedin.com/in/alvaro-soares01/)
